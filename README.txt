@@ -1,7 +1,7 @@
---- DESCRIPTION --
+# DESCRIPTION
 A pack of workflow automation I wrote in AHK to help my coworkers and me in getting the job done. It was written to be used with Notch software (www.notch.one). My main goal in sharing it here is to describe various helpful code snippets I used and describe them on my blog (www.thomaswinged.me/entry/notch-workflow-automation-ahk-pack) as I had many adventures with this piece of code.
 
---- CONFIG ---
+$ CONFIG
 First, check the configuration file under "include/config.cfg".
 Inside you can f.e. modify resolutions of surfaces, add new ones, modify RenderBuddy output location, and so on.
 
@@ -19,11 +19,11 @@ Locations such as "PrintScreenDirectory": "\\Notch\\Notch Screenshots\\" are sto
 
 If there are any problems with scripts, please set the "Debug" value to 1, and check the log file that is being saved under "LogFilePath".
 
---- REQUIREMENTS ---
+# REQUIREMENTS
 Ensure that you have MediaInfo and FFmpeg downloaded and added to Environment Path.
 In case you don't have it, here are the download links:
 - MediaInfo: https://mediaarea.net/pl/MediaInfo/Download/Windows) then search for 62-bit CLI
 - FFmpeg: https://ffmpeg.org/download.html#build-windows)
 
---- EXTRAS ---
+# EXTRAS
 I also attached a template project and Notch render preset to make a complete toolset package in one place.
