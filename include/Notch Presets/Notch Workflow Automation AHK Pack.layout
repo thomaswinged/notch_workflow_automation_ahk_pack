@@ -1,0 +1,36 @@
+<NotchLayout>
+<Settings-Bar0 BarID="59393" />
+<Settings-Bar1 BarID="59418" XPos="-2" YPos="-2" Docking="1" MRUDockID="59419" MRUDockLeftPos="-2" MRUDockTopPos="-2" MRUDockRightPos="32510" MRUDockBottomPos="23" MRUFloatStyle="8192" MRUFloatXPos="-676" MRUFloatYPos="828" />
+<Settings-Bar2 BarID="260" XPos="-2" YPos="-2" Docking="1" MRUDockID="59422" MRUDockLeftPos="-2" MRUDockTopPos="-2" MRUDockRightPos="431" MRUDockBottomPos="534" MRUFloatStyle="8192" MRUFloatXPos="2291" MRUFloatYPos="441" />
+<Settings-Bar3 BarID="268" XPos="429" YPos="-2" Docking="1" MRUDockID="59422" MRUDockLeftPos="429" MRUDockTopPos="-2" MRUDockRightPos="1114" MRUDockBottomPos="534" MRUFloatStyle="8192" MRUFloatXPos="1914" MRUFloatYPos="20" />
+<Settings-Bar4 BarID="271" XPos="-2" YPos="-2" Docking="1" MRUDockID="59421" MRUDockLeftPos="-2" MRUDockTopPos="-2" MRUDockRightPos="1918" MRUDockBottomPos="475" MRUFloatStyle="4096" MRUFloatXPos="396" MRUFloatYPos="143" />
+<Settings-Bar5 BarID="272" Visible="0" YPos="-2" Docking="1" MRUDockID="0" MRUDockLeftPos="346" MRUDockTopPos="0" MRUDockRightPos="696" MRUDockBottomPos="201" MRUFloatStyle="8196" MRUFloatXPos="-2147483648" MRUFloatYPos="0" />
+<Settings-Bar6 BarID="275" XPos="-2" YPos="-2" Docking="1" MRUDockID="59422" MRUDockLeftPos="-2" MRUDockTopPos="-2" MRUDockRightPos="348" MRUDockBottomPos="534" MRUFloatStyle="8196" MRUFloatXPos="-2147483648" MRUFloatYPos="0" />
+<Settings-Bar7 BarID="264" Visible="0" XPos="346" YPos="-2" Docking="1" MRUDockID="0" MRUDockLeftPos="346" MRUDockTopPos="0" MRUDockRightPos="696" MRUDockBottomPos="704" MRUFloatStyle="8196" MRUFloatXPos="-2147483648" MRUFloatYPos="0" />
+<Settings-Bar8 BarID="270" Visible="0" XPos="-2" YPos="-2" Docking="1" MRUDockID="59422" MRUDockLeftPos="1380" MRUDockTopPos="0" MRUDockRightPos="1699" MRUDockBottomPos="179" MRUFloatStyle="8196" MRUFloatXPos="-2147483648" MRUFloatYPos="0" />
+<Settings-Bar9 BarID="273" Visible="0" XPos="1915" YPos="-2" Docking="1" MRUDockID="0" MRUDockLeftPos="694" MRUDockTopPos="0" MRUDockRightPos="1044" MRUDockBottomPos="704" MRUFloatStyle="8196" MRUFloatXPos="-2147483648" MRUFloatYPos="0" />
+<Settings-Bar10 BarID="274" Visible="0" XPos="1916" YPos="-2" Docking="1" MRUDockID="0" MRUDockLeftPos="694" MRUDockTopPos="0" MRUDockRightPos="1044" MRUDockBottomPos="201" MRUFloatStyle="8196" MRUFloatXPos="-2147483648" MRUFloatYPos="0" />
+<Settings-Bar11 BarID="280" Visible="0" XPos="1917" YPos="-2" Docking="1" MRUDockID="59420" MRUDockLeftPos="-2" MRUDockTopPos="0" MRUDockRightPos="1166" MRUDockBottomPos="536" MRUFloatStyle="8196" MRUFloatXPos="-2147483648" MRUFloatYPos="0" />
+<Settings-Bar12 BarID="281" Visible="0" XPos="1918" YPos="-2" Docking="1" MRUDockID="59421" MRUDockLeftPos="0" MRUDockTopPos="0" MRUDockRightPos="293" MRUDockBottomPos="981" MRUFloatStyle="4096" MRUFloatXPos="2372" MRUFloatYPos="196" />
+<Settings-Bar13 BarID="269" Visible="0" XPos="-2" YPos="-2" Docking="1" MRUDockID="0" MRUDockLeftPos="0" MRUDockTopPos="0" MRUDockRightPos="0" MRUDockBottomPos="0" MRUFloatStyle="8196" MRUFloatXPos="-2147483648" MRUFloatYPos="0" />
+<Settings-Bar14 BarID="263" Visible="0" XPos="-2" YPos="-2" Docking="1" MRUDockID="0" MRUDockLeftPos="0" MRUDockTopPos="0" MRUDockRightPos="0" MRUDockBottomPos="0" MRUFloatStyle="8196" MRUFloatXPos="-2147483648" MRUFloatYPos="0" />
+<Settings-Bar15 BarID="59419" Bars="5" Bar_0="0" Bar_1="59418" Bar_2="0" Bar_3="65807" Bar_4="0" />
+<Settings-Bar16 BarID="59422" Bars="5" Bar_0="0" Bar_1="269" Bar_2="0" Bar_3="271" Bar_4="0" />
+<Settings-Bar17 BarID="59420" Bars="14" Bar_0="0" Bar_1="260" Bar_2="0" Bar_3="272" Bar_4="268" Bar_5="0" Bar_6="273" Bar_7="0" Bar_8="274" Bar_9="0" Bar_10="280" Bar_11="0" Bar_12="281" Bar_13="0" />
+<Settings-Bar18 BarID="59421" Bars="11" Bar_0="0" Bar_1="264" Bar_2="0" Bar_3="65817" Bar_4="0" Bar_5="65807" Bar_6="0" Bar_7="270" Bar_8="0" Bar_9="275" Bar_10="0" />
+<Settings-Bar19 BarID="59423" Horz="1" Floating="1" XPos="107" YPos="107" Bars="3" Bar_0="0" Bar_1="263" Bar_2="0" />
+<Settings-Summary Bars="20" ScreenCX="1920" ScreenCY="1080" />
+<Settings-SCBar-260 sizeHorzCX="496" sizeHorzCY="179" sizeVertCX="433" sizeVertCY="536" sizeFloatCX="461" sizeFloatCY="379" />
+<Settings-SCBar-263 sizeHorzCX="350" sizeHorzCY="400" sizeVertCX="350" sizeVertCY="400" sizeFloatCX="350" sizeFloatCY="400" />
+<Settings-SCBar-264 sizeHorzCX="350" sizeHorzCY="400" sizeVertCX="350" sizeVertCY="704" sizeFloatCX="350" sizeFloatCY="400" />
+<Settings-SCBar-268 sizeHorzCX="1920" sizeHorzCY="179" sizeVertCX="685" sizeVertCY="536" sizeFloatCX="459" sizeFloatCY="685" />
+<Settings-SCBar-271 sizeHorzCX="1920" sizeHorzCY="477" sizeVertCX="1465" sizeVertCY="536" sizeFloatCX="1924" sizeFloatCY="1084" />
+<Settings-SCBar-270 sizeHorzCX="484" sizeHorzCY="179" sizeVertCX="685" sizeVertCY="414" sizeFloatCX="350" sizeFloatCY="400" />
+<Settings-SCBar-272 sizeHorzCX="350" sizeHorzCY="400" sizeVertCX="350" sizeVertCY="201" sizeFloatCX="350" sizeFloatCY="400" />
+<Settings-SCBar-269 sizeHorzCX="350" sizeHorzCY="400" sizeVertCX="350" sizeVertCY="400" sizeFloatCX="350" sizeFloatCY="400" />
+<Settings-SCBar-275 sizeHorzCX="626" sizeHorzCY="179" sizeVertCX="350" sizeVertCY="536" sizeFloatCX="350" sizeFloatCY="400" />
+<Settings-SCBar-273 sizeHorzCX="350" sizeHorzCY="400" sizeVertCX="350" sizeVertCY="253" sizeFloatCX="350" sizeFloatCY="400" />
+<Settings-SCBar-274 sizeHorzCX="350" sizeHorzCY="400" sizeVertCX="350" sizeVertCY="115" sizeFloatCX="350" sizeFloatCY="400" />
+<Settings-SCBar-280 sizeHorzCX="478" sizeHorzCY="400" sizeVertCX="1168" sizeVertCY="536" sizeFloatCX="350" sizeFloatCY="400" />
+<Settings-SCBar-281 sizeHorzCX="350" sizeHorzCY="400" sizeVertCX="293" sizeVertCY="981" sizeFloatCX="350" sizeFloatCY="400" />
+</NotchLayout>
